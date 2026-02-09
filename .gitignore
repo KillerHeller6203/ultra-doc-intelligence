@@ -1,0 +1,17 @@
+# Python
+__pycache__/
+*.pyc
+
+# Virtual environment
+.venv/
+
+# IDE
+.idea/
+
+# Vector index artifacts
+faiss_index.bin
+metadata.pkl
+
+# OS
+.DS_Store
+Thumbs.db

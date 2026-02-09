@@ -1,0 +1,12 @@
+fastapi
+uvicorn
+python-multipart
+sentence-transformers
+faiss-cpu
+pypdf
+python-docx
+streamlit
+langchain
+langchain-community
+langchain-text-splitters
+pydantic
