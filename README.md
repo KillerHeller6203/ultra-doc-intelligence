@@ -34,6 +34,17 @@ Local LLM (Ollama - llama3)
 
 ---
 
+## Demo Screenshots
+
+<p align="center">
+  <img src="Image1.jpeg" width="800" />
+</p>
+
+<p align="center">
+  <img src="Image2.jpeg" width="800" />
+</p>
+
+---
 
 ### Components
 - **FastAPI Backend** – Handles ingestion, retrieval, guardrails, and inference
