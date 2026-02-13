@@ -166,3 +166,23 @@ streamlit run frontend/app.py
 - Interview-ready architecture
 - Clear separation of concerns
 - Production-style error handling
+
+---
+
+## Hosted UI & Deployment Note
+
+This project uses **Ollama (llama3) for local LLM inference** to ensure:
+- No external paid APIs
+- Deterministic behavior
+- Data privacy
+
+Because Ollama requires a local runtime, the backend is **intentionally not deployed publicly**.
+
+The system is fully runnable locally:
+- FastAPI backend
+- Streamlit UI
+- FAISS vector store
+- Local LLM inference
+
+
+
