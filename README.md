@@ -182,7 +182,7 @@ The system is fully runnable locally:
 - FastAPI backend
 - Streamlit UI
 - FAISS vector store
-- Local LLM inference
+- Local LLM inference(Ollama)
 
 
 
